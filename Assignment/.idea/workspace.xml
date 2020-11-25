@@ -30,29 +30,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
   </component>
-  <component name="RunManager" selected="Python.Question 6">
-    <configuration name="Question 2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Question 2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Question 2/Question 2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Question 7">
     <configuration name="Question 3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,13 +119,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Question 7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Question 7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Question 7/Question 7.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Question 7" />
         <item itemvalue="Python.Question 6" />
         <item itemvalue="Python.Question 5" />
         <item itemvalue="Python.Question 4" />
         <item itemvalue="Python.Question 3" />
-        <item itemvalue="Python.Question 2" />
       </list>
     </recent_temporary>
   </component>
@@ -161,7 +161,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606307393456</updated>
-      <workItem from="1606307394823" duration="846000" />
+      <workItem from="1606307394823" duration="1468000" />
     </task>
     <servers />
   </component>
@@ -169,22 +169,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1493" height="220" key="GridCell.Tab.0.bottom" timestamp="1606308242941">
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom" timestamp="1606309063580">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state width="1493" height="220" key="GridCell.Tab.0.bottom/0.40.1536.824@0.40.1536.824" timestamp="1606308242941" />
-    <state width="1493" height="220" key="GridCell.Tab.0.center" timestamp="1606308242941">
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom/0.40.1536.824@0.40.1536.824" timestamp="1606309063580" />
+    <state width="1493" height="220" key="GridCell.Tab.0.center" timestamp="1606309063580">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state width="1493" height="220" key="GridCell.Tab.0.center/0.40.1536.824@0.40.1536.824" timestamp="1606308242941" />
-    <state width="1493" height="220" key="GridCell.Tab.0.left" timestamp="1606308242941">
+    <state width="1493" height="220" key="GridCell.Tab.0.center/0.40.1536.824@0.40.1536.824" timestamp="1606309063580" />
+    <state width="1493" height="220" key="GridCell.Tab.0.left" timestamp="1606309063580">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state width="1493" height="220" key="GridCell.Tab.0.left/0.40.1536.824@0.40.1536.824" timestamp="1606308242941" />
-    <state width="1493" height="220" key="GridCell.Tab.0.right" timestamp="1606308242941">
+    <state width="1493" height="220" key="GridCell.Tab.0.left/0.40.1536.824@0.40.1536.824" timestamp="1606309063580" />
+    <state width="1493" height="220" key="GridCell.Tab.0.right" timestamp="1606309063580">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
-    <state width="1493" height="220" key="GridCell.Tab.0.right/0.40.1536.824@0.40.1536.824" timestamp="1606308242941" />
+    <state width="1493" height="220" key="GridCell.Tab.0.right/0.40.1536.824@0.40.1536.824" timestamp="1606309063580" />
     <state x="279" y="98" key="SettingsEditor" timestamp="1606307886621">
       <screen x="0" y="40" width="1536" height="824" />
     </state>
@@ -192,6 +192,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Assignment$Question_3.coverage" NAME="Question 3 Coverage Results" MODIFIED="1606307940655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Question 3" />
+    <SUITE FILE_PATH="coverage/Assignment$Question_7.coverage" NAME="Question 7 Coverage Results" MODIFIED="1606309063570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Question 7" />
     <SUITE FILE_PATH="coverage/Assignment$Question_1.coverage" NAME="Question 1 Coverage Results" MODIFIED="1606307603553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Question 1" />
     <SUITE FILE_PATH="coverage/Assignment$Question_5.coverage" NAME="Question 5 Coverage Results" MODIFIED="1606308089720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Question 5" />
     <SUITE FILE_PATH="coverage/Assignment$Question_6.coverage" NAME="Question 6 Coverage Results" MODIFIED="1606308242933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Question 6" />
