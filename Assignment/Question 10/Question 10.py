@@ -79,3 +79,15 @@ elif cho == "H" or cho == "h":
     for idx in range(97, 97 + E):
         res = res + chr(idx)
     print("Alphabets till E are : " + str(res))
+elif cho == "I" or cho == "i":
+    d = 'ABCDCDCDCDCDE'
+    counter = 0
+    for i in range(0, 13):
+        if d[i] == 'D':
+            for j in range(0, 5):
+                if counter < 5:
+                    print('D', end='')
+                    counter += 1
+                    counter = 0
+        else:
+            print(d[i], end='')
